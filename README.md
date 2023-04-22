@@ -6,8 +6,6 @@ Targets small and large scale private clouds.
 # Setting up for development
 
 Install HAproxy
-
-Ubuntu:
 ```
 apt install haproxy
 ```
